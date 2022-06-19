@@ -6,6 +6,8 @@ To implement Huffman coding to compress the data using Python.
 1. Anaconda - Python 3.7
 
 ## Algorithm:
+### developed by : SUBRAMANIYA PILLAI B
+### reg no : 212221230109
 ### Step1:
 Input the string.
 
